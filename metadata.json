@@ -1,0 +1,6 @@
+{
+  "name": "Giọng Nói Tình Báo - TTS Radio Kịch Tính",
+  "description": "Chuyển đoạn văn kịch tính thời chiến thành giọng đọc truyền cảm, hồi hộp với AI Text-to-Speech và âm thanh sóng vô tuyến.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
